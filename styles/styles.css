@@ -1,0 +1,52 @@
+body{
+    background-color: white;
+    font-size: medium;
+}
+#r1{
+    font-style: italic;
+    font-weight: bold;
+}
+.r2{
+    font-style: italic;
+    font-weight: bold;
+}
+.r3{
+    text-align: center;
+    color: red;
+}
+.r4{
+    border: 5px solid black;
+    padding: 15px;
+    border-radius: 2%;
+    margin: 20px;
+    box-shadow: 10px black;
+    background-color: sandybrown;
+
+}
+input[type="submit"]{
+    padding: 5px;
+    border-radius :10%;
+
+}
+#hell{
+    height: 400px;
+    width: 400px;
+    
+}
+input[type="text"]{
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+input[type="email"]{
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.bt{
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+}
